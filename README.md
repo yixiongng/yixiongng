@@ -4,7 +4,7 @@
 - 🌱 I’m currently pursuing my research master of computer science in Universiti Sains Malaysia (USM) with research title of "Advancement of Proof-of-Existance (PoE) using Image Processing in Academic Transcripts" 
 - 💞️ I’m looking to collaborate on the usage of Blockchain e.g. smart contract, Proof-of-Existance (PoE), BlockCert etc.
 - 📫 How to reach me : yixiongng@gmail.com
-- my website : http://winglessbear.com/
+- my website : https://winglessbear.com/
 
 <!---
 yixiongng/yixiongng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
